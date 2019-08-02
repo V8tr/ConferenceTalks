@@ -14,7 +14,7 @@ The described practices are applicable to wide range of programming languages, h
 
 ## Language
 
-Slides: English.
+Slides: English.  
 Talk: Russian.
 
 ## Key points
