@@ -19,11 +19,11 @@ Attendees will learn best practices and guidelines to write unit tests in Swift.
 
 ## Content
 
-### Problem Statement
+#### 1 Problem Statement
 
 - Poor test practices vs good test practices: the cost-benefit trade off.
 
-### Unit testing best practices
+#### 2 Unit testing best practices
 
 - Key principle
 - What makes a good unit test
@@ -31,7 +31,7 @@ Attendees will learn best practices and guidelines to write unit tests in Swift.
   - Maintainable
   - Trustworthy
     
-### Real-world unit testing in Swift
+#### 3 Real-world unit testing in Swift
 
 - Tech stack
   - Assertions: XCTest
