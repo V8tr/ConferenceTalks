@@ -56,9 +56,10 @@ Attendees will learn best practices and guidelines to write unit tests in Swift.
     - Signaling
     - Test before/test after
     - Busy assertion
-- Generating test data
-  - Simplest possible input
+- Test data
+  - Use simplest possible input
+  - Rotate data
   - Fixtures
-  - JSON
-  - Codable
 - Avoid leaking test code into production
+  - Do not weaken encapsulation
+  - Do not put logic which is there only to support testing
