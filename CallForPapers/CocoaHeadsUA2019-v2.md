@@ -42,7 +42,7 @@ Attendees will learn best practices and guidelines to write unit tests in Swift.
   - Commit queue
   - Test reports
     - Detailed failure messages: use specialized assertions
-    - Generate code coverage reports
+    - Quality gate: maintain minimal code coverage of 85%. Reference to [Google approach](https://docs.google.com/presentation/d/1god5fDDd1aP6PwhPodOnAZSPpD80lqYDrHhuhyD7Tvg/edit#slide=id.g3f5c82004_99_130). 
 - Controlling the world
   - Isolate system under test
     - Inject dependencies
