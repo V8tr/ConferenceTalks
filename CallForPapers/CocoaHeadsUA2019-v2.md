@@ -49,6 +49,8 @@ Attendees will learn best practices and guidelines to write unit tests in Swift.
     - Mock everything
     - Stub network
   - Control side effects
+    - Identify warning flags
+    - Cleanup in `setUp`, `tearDown`
   - Use patterns when testing concurrent code
     - Mocking
     - Signaling
