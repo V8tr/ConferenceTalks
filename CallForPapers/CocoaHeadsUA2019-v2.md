@@ -51,7 +51,7 @@ Attendees will learn best practices and guidelines to write unit tests in Swift.
   - Control side effects
     - Identify warning flags
     - Cleanup in `setUp`, `tearDown`
-  - Use patterns when testing concurrent code
+  - Use patterns when testing concurrent code. (Wrote about them in [Unit Testing Asynchronous Code in Swift](https://www.vadimbulavin.com/unit-testing-async-code-in-swift/)).
     - Mocking
     - Signaling
     - Test before/test after
