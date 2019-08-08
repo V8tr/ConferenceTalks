@@ -10,7 +10,7 @@
 
 This is not an introductory talk: I won't convince you why unit testing is important and how to write your first unit test.
 
-Attendees will learn best practices and guidelines to write unit tests in Swift. These practices allow to reduce efforts on development and maintainance and increase return on investment of your test suite.
+Attendees will learn best practices and guidelines to write unit tests in Swift. These practices allow to reduce efforts on development and maintainance, and increase return on investment of your tests.
 
 ## Language
 
