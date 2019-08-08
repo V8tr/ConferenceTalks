@@ -17,42 +17,46 @@ Attendees will learn best practices and guidelines to write unit tests in Swift.
 - Slides: English.  
 - Talk: Russian.
 
-## Key points
+## Content
+
+### Problem Statement
 
 - Poor test practices vs good test practices: the cost-benefit trade off.
 
-- Unit testing best practices
-  - Key principle
-  - What makes a good unit test
-    - Readable
-    - Maintainable
-    - Trustworthy
+### Unit testing best practices
+
+- Key principle
+- What makes a good unit test
+  - Readable
+  - Maintainable
+  - Trustworthy
     
-- Real-world unit testing in Swift
-  - Tech stack
-    - Assertions: XCTest
-    - Code generation: Sourcery
-    - Network stubs: OHHTTPStub
-  - CI/CD
-    - Never merge code with failing tests
-    - Commit queue
-    - Test reports
-      - Detailed failure messages: use specialized assertions
-      - Code coverage
-  - Controlling the world
-    - Isolate system under test
-      - Inject dependencies
-      - Mock everything
-      - Stub network
-    - Control side effects
-    - Use patterns when testing concurrent code
-      - Mocking
-      - Signaling
-      - Test before/test after
-      - Busy assertion
-  - Generating test data
-    - Simplest possible input
-    - Fixtures
-    - JSON
-    - Codable
-  - Avoid leaking test code into production
+### Real-world unit testing in Swift
+
+- Tech stack
+  - Assertions: XCTest
+  - Code generation: Sourcery
+  - Network stubs: OHHTTPStub
+- CI/CD
+  - Never merge code with failing tests
+  - Commit queue
+  - Test reports
+    - Detailed failure messages: use specialized assertions
+    - Code coverage
+- Controlling the world
+  - Isolate system under test
+    - Inject dependencies
+    - Mock everything
+    - Stub network
+  - Control side effects
+  - Use patterns when testing concurrent code
+    - Mocking
+    - Signaling
+    - Test before/test after
+    - Busy assertion
+- Generating test data
+  - Simplest possible input
+  - Fixtures
+  - JSON
+  - Codable
+- Avoid leaking test code into production
