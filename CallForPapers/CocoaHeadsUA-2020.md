@@ -30,6 +30,8 @@ This is not an introductory talk. I won't convince you why unit testing is impor
     - Inverted `XCTestExpectation`
 - Test before & test after
   - Overview
+    - Testing preconditions
+    - Testing postconditions
   - Example
 - Busy assertion
   - Overview
@@ -37,4 +39,7 @@ This is not an introductory talk. I won't convince you why unit testing is impor
   - Example
     - Regular busy assertion
     - Inverted busy assertion
-  
+- Summary
+  - Overview of 4 techniques
+  - When to use what
+- Q&A
