@@ -15,6 +15,8 @@ This is not an introductory talk. I won't convince you why unit testing is impor
 
 ## Content
 
+**Timeline:** 40m
+
 - Why unit testing async code is hard
 - Mocking async dependencies with sync
   - Related techniques
