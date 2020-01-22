@@ -1,0 +1,11 @@
+# Unit Testing Asynchronous Code
+
+## What to learn
+
+- Why unit testing async code is hard?
+- Four techniques of unit testing async code.
+
+## Target audience
+
+This is not an introductory talk. I won't convince you why unit testing is important and how to write your first unit test. I mainly target Middle / Senior / Lead Engineers with some experience in unit testing. The examples will be in Swift and XCTest framework, however 
+
