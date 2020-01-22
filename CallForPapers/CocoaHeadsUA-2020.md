@@ -53,8 +53,7 @@ Why unit testing async code is hard
  
  #### Summary
  
-- Summary
-  - Techniques overview
-  - Pros and cons
-  - When to use what
+- Techniques overview
+- Pros and cons
+- When to use what
 - Q&A
