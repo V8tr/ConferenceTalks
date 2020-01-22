@@ -39,8 +39,6 @@ Why unit testing async code is hard
   - When to use
 - Test before & test after
   - Overview
-    - Testing preconditions
-    - Testing postconditions
   - Example
   - When to use
 - Busy assertion
