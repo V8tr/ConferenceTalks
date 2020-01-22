@@ -19,7 +19,7 @@ This is not an introductory talk. I won't convince you why unit testing is impor
 
 #### Problem statement
 
-Why unit testing async code is hard
+Why unit testing async code is hard?
 
 #### Solution 
 
