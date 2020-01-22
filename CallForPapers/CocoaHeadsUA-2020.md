@@ -17,7 +17,12 @@ This is not an introductory talk. I won't convince you why unit testing is impor
 
 **Timeline:** 40m
 
-- Why unit testing async code is hard
+#### Problem statement
+
+Why unit testing async code is hard
+
+#### Solution 
+
 - Mocking async dependencies with sync
   - Related techniques
     - Dependency injection
@@ -45,6 +50,9 @@ This is not an introductory talk. I won't convince you why unit testing is impor
     - Regular busy assertion
     - Inverted busy assertion
   - When to use
+ 
+ #### Summary
+ 
 - Summary
   - Techniques overview
   - Pros and cons
