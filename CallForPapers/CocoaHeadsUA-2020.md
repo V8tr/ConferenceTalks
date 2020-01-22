@@ -46,6 +46,8 @@ This is not an introductory talk. I won't convince you why unit testing is impor
     - Inverted busy assertion
   - When to use
 - Summary
-  - Overview of 4 techniques
+  - Compare 4 techniques
+    - Brief overview
+    - Pros and cons
   - When to use what
 - Q&A
