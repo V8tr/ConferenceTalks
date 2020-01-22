@@ -17,7 +17,7 @@ This is not an introductory talk. I won't convince you why unit testing is impor
 
 - Why unit testing async code is hard
 - Mocking async dependencies with sync
-  - Brief overview of related techniques
+  - Related techniques
     - Dependency injection
     - Mocking
   - Technique overview
