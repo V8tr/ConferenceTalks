@@ -22,25 +22,29 @@ This is not an introductory talk. I won't convince you why unit testing is impor
   - Related techniques
     - Dependency injection
     - Mocking
-  - Technique overview
+  - Overview
   - Example
+  - When to use
 - Signaling
   - Overview
   - Signaling with `XCTestExpectation`
   - Example
     - Regular `XCTestExpectation`
     - Inverted `XCTestExpectation`
+  - When to use
 - Test before & test after
   - Overview
     - Testing preconditions
     - Testing postconditions
   - Example
+  - When to use
 - Busy assertion
   - Overview
   - Extending `XCTest` with custom expectation
   - Example
     - Regular busy assertion
     - Inverted busy assertion
+  - When to use
 - Summary
   - Overview of 4 techniques
   - When to use what
